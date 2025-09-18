@@ -2,6 +2,7 @@
 **Roboninja IoT Dashboard – Assignment**
 
 📌 **Overview:**
+
 This project is part of the IoT homework assignment. The goal was to extend the HTML dashboard made in class and integrate it with a real sensor using a Wemos D1 Mini.
 
 **The project demonstrates:**
